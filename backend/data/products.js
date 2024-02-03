@@ -1,6 +1,5 @@
 const products = [
   {
-
     name: 'Airpods Wireless Bluetooth Headphones',
     image: '/images/airpod.jpeg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-
     name: 'iPhone 15 Pro 256GB Memory',
     image: '/images/phone.jpeg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-
     name: 'Apple Watch Ultra2',
     image: '/images/watch.jpeg',
     description:
